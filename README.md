@@ -1,0 +1,1 @@
+# TEMEL-SQL--DEV-10-Patika.dev
